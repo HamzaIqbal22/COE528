@@ -13,19 +13,19 @@ The rationale for using the State Design Pattern is based on the need for the ap
 The Bookstore's primary features include user authentication, book selection, payment options, and data management for books and customers. It ensures that changes made by the owner are reflected in the application's data files and that the application handles exceptions and special requirements, such as invalid logins and book availability. Overall, the Bookstore aims to provide a functional and user-friendly bookstore application for both owners and customers.
 
 # Key Objectives
-Demonstrates an in-depth understanding of key concepts related to object-oriented engineering fundamentals.
+1. Demonstrates an in-depth understanding of key concepts related to object-oriented engineering fundamentals.
 
-Apply the knowledge of object-oriented engineering principles to a software problem.
+2. Apply the knowledge of object-oriented engineering principles to a software problem.
 
-Integrate the existing design patterns into the software design where applicable.
+3. Integrate the existing design patterns into the software design where applicable.
 
-Select the most appropriate design pattern to address a software design problem.
+4. Select the most appropriate design pattern to address a software design problem.
 
-Produce course project report using appropriate format.
+5. Produce course project report using appropriate format.
 
-Demonstrate the project through oral communication.
+6. Demonstrate the project through oral communication.
 
-Understands project scope and desired deliverables.
+7. Understands project scope and desired deliverables.
 
 
 
